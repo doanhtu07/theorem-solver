@@ -33,3 +33,14 @@ The program’s output should be:
 9. Contradiction {7,5}
 Valid
 ```
+
+## Run
+
+```
+python3 main.py [input path]
+```
+
+- `input path` is required: The input file path like ./ex1_in.txt
+  - The input file should have the same format as `ex1_in.txt`
+  - The last line of the input file is the clause we will try to prove
+  - Other previous lines are forming the knowledge base
